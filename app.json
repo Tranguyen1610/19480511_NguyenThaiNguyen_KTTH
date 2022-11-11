@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "19480511_NguyenThaiNguyen_KTTH",
+    "slug": "19480511_NguyenThaiNguyen_KTTH",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
